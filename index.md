@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "CS294/194-196 Decentralized Intelligence: Large Language Model Agents"
 permalink: /f24
 redirect_from:
  - /
@@ -6,7 +8,7 @@ redirect_from:
 
 ### Prospective Students
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32306. The class number for CS294-196 is 32304. Please join the waitlist if the class is full.***
-- ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist. You will receive an email notification around the beginning of the fall semester if you are allowed in.***
+- ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the fall semester if you are allowed in.***
 
 [//]: # (- ***For general course content related questions, please join our [edstem]&#40;https://edstem.org/us/courses/41945/discussion/&#41;.***)
 - ***<span style="color:red">For any questions, please email course staff at <a href="mailto:cs294196.f24@gmail.com">cs294196.f24@gmail.com</a>.</span>***
@@ -62,7 +64,7 @@ GSI: Yu Gai
 
 Reader: Tara Pande
 
-[edstem](https://edstem.org/us/courses/51702/discussion)
+[//]: # ([edstem]&#40;https://edstem.org/us/courses/51702/discussion&#41;)
 
 ## Class Time and Location
 
@@ -126,42 +128,42 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 ## Enrollment and Grading
 
-- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
+- ***Prerequisite:*** **Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.**
 
-Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist. We will reach out to you if your petition is approved.
+***Please fill out the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist.***
 
 This is a variable-unit course.
-All enrolled students are expected to attend lectures in person and submit reading summaries and questions for Q&A before each lecture.
-Students enrolling in one unit are expected to write an article that summarizes one of the lectures.
-Students enrolling in more than one units are expected to complete a lab assignment and a project.
-The project of students enrolling in 2 units should have a written report, which can be a survey in an area relevant to LLMs.
-The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a significant implementation component with the potential for either real world impacts or intellectual contributions.
+All enrolled students are expected to participate in lectures in person.
+Students enrolling in one unit are expected to submit an article that summarizes one of the lectures.
+Students enrolling in more than one unit are expected to submit a lab assignment and a project instead of the article.
+The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
+The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a very significant implementation component with the potential for either real world impacts or intellectual contributions.
 The grade breakdowns for students enrolled in different units are the following:
 
-|                                       | 1 unit | 2 units | 3/4 units |
-|---------------------------------------|--------|---------|-----------|
-| Lecture participation                 | 25%    | 10%     | 10%       |
-| Reading summaries & questions for Q&A | 25%    | 10%     | 10%       |
-| Article                               | 50%    |         |           |
-| Lab                                   |        | 20%     | 10%       |
-| Project                               |        |         |           |
-| - *Proposal*                          |        | 10%     | 10%       |
-| - *Milestone*                         |        | 10%     | 10%       |
-| - *Presentation*                      |        | 20%     | 15%       |
-| - *Report*                            |        | 20%     | 15%       |
-| - *Implementation*                    |        |         | 20%       |
+|                              | 1 unit | 2 units | 3/4 units |
+|------------------------------|--------|---------|-----------|
+| Participation                | 50%    | 20%     | 10%       |
+| Article                      | 50%    |         |           |
+| Lab                          |        | 20%     | 10%       |
+| Project                      |        |         |           |
+| &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Presentation*   |        | 25%     | 25%       |
+| &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
+| &nbsp;&nbsp;*Implementation* |        |         | 20%       |
 
 ## Lab and Project Timeline
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | Jan 19   | Jan 30 |
-| Project proposal        | Jan 23   | Feb 13 |
-| Lab                     | Jan 30   | Feb 27 |
-| Project milestone       | Feb 13   | Mar 19 |
-| Project presentation    | Mar 19   | Apr 23 |
-| Project final report    | Mar 19   | Apr 30 |
+| Project group formation | TBA      | TBA    |
+| Project proposal        | TBA      | TBA    |
+| Lab                     | TBA      | TBA    |
+| Project milestone       | TBA      | TBA    |
+| Project presentation    | TBA      | TBA    |
+| Project final report    | TBA      | TBA    |
 
 ## Office Hours
 
-[Yu Gai](https://edstem.org/us/courses/51702/discussion/4186218)
+TBA
+[//]: # ([Yu Gai]&#40;https://edstem.org/us/courses/51702/discussion/4186218&#41;)
