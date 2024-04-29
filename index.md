@@ -35,7 +35,7 @@ Instructor
 </tbody>
 </table>
 
-GSI: Yu Gai
+GSI: TBA
 
 Reader: Tara Pande
 
@@ -45,23 +45,18 @@ Lecture: 3:30-5pm PT Monday at Latimer 120
 
 ## Course Description
 
-Generative AI and Large Language Models (LLMs) including ChatGPT have ushered the world into a new era with rich new capabilities for wide-ranging application domains. At the same time, there is little understanding of how these new capabilities emerge, their limitations and potential risks. In this class, we will introduce foundations of LLMs, study methods for better understanding LLMs, discuss scaling laws and emergence, and explore the risks and challenges with these technologies and how we can build towards safe and beneficial AI. In particular, this class will cover a wide-ranging topics including:
+Large language models (LLMs) have revolutionized a wide range of domains. With their extraordinary capabilities in natural language understanding and reasoning, LLMs have been developed as agents to interact with the world and automate various tasks. In this course, we will first discuss fundamental concepts that are essential for LLM agents, including the foundation of LLMs, essential LLM abilities required for task automation, as well as infrastructures for agent development. We will also cover representative agent applications, including code generation, robotics, web automation, medical applications, and scientific discovery. Meanwhile, we will discuss limitations and potential risks of current LLM agents, and share insights into directions for further improvement. Specifically, this course will include the following topics:
 - Foundations of LLMs
-- Interpretability
-- Scaling laws
-- Adversarial robustness
-- AI alignment and governance
-- Trojans and unlearning
-- Privacy and watermarking
-- Agency and emergence
-- Reasoning and mathematics
-- Evaluation and benchmarking
-
-## Syllabus (subject to change)
-
-| Date   | Topic              |
-|--------|--------------------|
-| Sept 2 | under construction |
+- Reasoning
+- Planning, tool use 
+- LLM agent infrastructure 
+- Retrieval-augmented generation 
+- Code generation, data science 
+- Multimodal agents, robotics 
+- Evaluation and benchmarking on agent applications 
+- Privacy, safety and ethics 
+- Human-agent interaction, personalization, alignment 
+- Multi-agent
 
 ## Enrollment and Grading
 
