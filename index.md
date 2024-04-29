@@ -9,9 +9,9 @@ redirect_from:
 ### Prospective Students
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32306. The class number for CS294-196 is 32304. Please join the waitlist if the class is full.***
 - ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the fall semester if you are allowed in.***
-
-<! -- - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
 - ***<span style="color:red">For any questions, please email course staff at <a href="mailto:cs294196.f24@gmail.com">cs294196.f24@gmail.com</a>.</span>***
+
+<!-- - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
 
 ## Course Staff
 
@@ -40,7 +40,7 @@ GSI: Yu Gai
 
 Reader: Tara Pande
 
-<! -- [edstem](https://edstem.org/us/courses/51702/discussion) -->
+<!-- [edstem](https://edstem.org/us/courses/51702/discussion) -->
 
 ## Class Time and Location
 
@@ -107,4 +107,4 @@ The grade breakdowns for students enrolled in different units are the following:
 
 TBA
 
-<! -- [Yu Gai]&#40;https://edstem.org/us/courses/51702/discussion/4186218&#41; -->
+<!-- [Yu Gai]&#40;https://edstem.org/us/courses/51702/discussion/4186218&#41; -->
