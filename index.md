@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS294/194-196 Decentralized Intelligence: Large Language Model Agents"
+title: "CS294/194-196 Large Language Model Agents"
 permalink: /f24
 redirect_from:
  - /
