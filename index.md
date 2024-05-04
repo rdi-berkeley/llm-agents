@@ -41,7 +41,7 @@ Reader: Tara Pande
 
 ## Class Time and Location
 
-Lecture: 3:30-5pm PT Monday at Latimer 120
+Lecture: 3-5pm PT Monday at Latimer 120
 
 ## Course Description
 
