@@ -35,7 +35,7 @@ redirect_from:
 </tbody>
 </table>
 
-GSI: TBA
+GSI: Alex Pan
 
 Reader: Tara Pande
 
