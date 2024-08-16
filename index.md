@@ -35,9 +35,9 @@ redirect_from:
 </tbody>
 </table>
 
-GSI: Alex Pan
+GSIs: Alex Pan & Sehoon Kim
 
-Reader: Tara Pande
+Readers: Tara Pande & Ashwin Dara
 
 ## Class Time and Location
 
