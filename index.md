@@ -39,6 +39,8 @@ GSIs: Alex Pan & Sehoon Kim
 
 Readers: Tara Pande & Ashwin Dara
 
+[edstem](https://edstem.org/us/courses/60410/discussion/)
+
 ## Class Time and Location
 
 Lecture: 3-5pm PT Monday at Latimer 120
@@ -57,6 +59,24 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 - Privacy, safety and ethics
 - Human-agent interaction, personalization, alignment
 - Multi-agent collaboration
+
+## Syllabus (subject to change)
+
+| Date   | Topic | Readings |
+|--------|-------|----------|
+| Sept 9 |       |          |
+| Sept 16 |       |          |
+| Sept 23 |       |          |
+| Sept 30 |       |          |
+| Oct 7 |       |          |
+| Oct 14 |       |          |
+| Oct 21 |       |          |
+| Nov 4 |       |          |
+| Nov 11 | No Class - Veteran's Day |          |
+| Nov 18 |       |          |
+| Nov 25 |       |          |
+| Dec 2 | Project Presentation |          |
+
 
 ## Enrollment and Grading (Subject to Change)
 
@@ -88,12 +108,12 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | TBA      | TBA    |
-| Project proposal        | TBA      | TBA    |
-| Lab                     | TBA      | TBA    |
-| Project milestone       | TBA      | TBA    |
-| Project presentation    | TBA      | TBA    |
-| Project final report    | TBA      | TBA    |
+| Project group formation |       |     |
+| Project proposal        |       |     |
+| Lab                     |       |     |
+| Project milestone       |       |     |
+| Project presentation    |       |     |
+| Project final report    |       |     |
 
 ## Office Hours
 
