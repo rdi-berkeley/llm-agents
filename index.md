@@ -117,4 +117,4 @@ The grade breakdowns for students enrolled in different units are the following:
 
 ## Office Hours
 
-TBA
+5-6pm on Mondays at Latimer after class (both Alex and Sehoon will hold OH concurrently)
