@@ -108,12 +108,12 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation |       |     |
-| Project proposal        |       |     |
-| Lab                     |       |     |
-| Project milestone       |       |     |
-| Project presentation    |       |     |
-| Project final report    |       |     |
+| Project group formation | 9/9      | 9/16    |
+| Project proposal        |  9/16     | 9/30    |
+| Lab                     |  10/7     |  10/21   |
+| Project milestone       |  10/21     |  10/28   |
+| Project presentation    |  Week of 12/2     |  Week of 12/2   |
+| Project final report    |  12/2     | 12/16    |
 
 ## Office Hours
 
