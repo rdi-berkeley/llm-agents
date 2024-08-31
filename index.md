@@ -10,7 +10,7 @@ redirect_from:
 
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32306. The class number for CS294-196 is 32304. Please join the waitlist if the class is full.***
 - ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the fall semester if you are allowed in.***
-- ***<span style="color:red">For any questions, please email course staff at <a href="mailto:cs294196.f24@gmail.com">cs294196.f24@gmail.com</a>.</span>***
+- ***<span style="color:red">Do not email course staff or TAs. Please use [Edstem](https://edstem.org/us/courses/60410/discussion/) for any questions. For private matters, post a private question on Edstem and make sure it is visable to all teaching staff.</span>***
 
 ## Course Staff
 
@@ -39,8 +39,6 @@ GSIs: Alex Pan & Sehoon Kim
 
 Readers: Tara Pande & Ashwin Dara
 
-[edstem](https://edstem.org/us/courses/60410/discussion/)
-
 ## Class Time and Location
 
 Lecture: 3-5pm PT Monday at Latimer 120
@@ -67,14 +65,14 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
 | Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
 | Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, AutoGen-AI |          |
-| Sept 30 |  | Burak, Google |          |
+| Sept 30 | Trends of Generative AI with Enterprises, Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 |  | TBA |          |
-| Oct 14 | Agents for Software Development | Graham Neubig, CMU |          |
+| Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
 | Oct 21 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
-| Oct 28 | Safety | Dawn Song, Berkeley |          |
+| Oct 28 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
 | Nov 4 |  | TBA |          |
 | Nov 11 | No Class - Veteran's Day |          |          |
-| Nov 18 |  | Percy Liang, Stanford |          |
+| Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
 | Nov 25 |  | Nicolas Chapados, ServiceNow |          |
 | Dec 2 | Project Presentation |          |          |
 
