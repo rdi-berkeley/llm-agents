@@ -108,11 +108,12 @@ The grade breakdowns for students enrolled in different units are the following:
 |-------------------------|----------|--------|
 | Project group formation | 9/9      | 9/16    |
 | Project proposal        |  9/16     | 9/30    |
-| Lab                     |  10/7     |  10/21   |
-| Project milestone       |  10/21     |  10/28   |
+| Lab                     |  9/23     |  10/7   |
+| Project milestone       |  10/14     |  10/28   |
 | Project presentation    |  Week of 12/2     |  Week of 12/2   |
-| Project final report    |  12/2     | 12/16    |
+| Project final report    |  11/25     | 12/16    |
 
 ## Office Hours
 
-5-6pm on Mondays at Latimer after class (both Alex and Sehoon will hold OH concurrently)
+Alex: 5-6pm on Mondays at Latimer after class 
+Sehoon: 4-5pm on Tuesdays at Soda
