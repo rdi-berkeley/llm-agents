@@ -68,12 +68,12 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Sept 30 | Trends of Generative AI with Enterprises, Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 |  | TBA |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
-| Oct 21 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
-| Oct 28 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
-| Nov 4 |  | TBA |          |
+| Oct 21 |  | Nicolas Chapados, ServiceNow |          |
+| Oct 28 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
+| Nov 4 |  | Jim Fan, Nvidia |          |
 | Nov 11 | No Class - Veteran's Day |          |          |
 | Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
-| Nov 25 |  | Nicolas Chapados, ServiceNow |          |
+| Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
 | Dec 2 | Project Presentation |          |          |
 
 
