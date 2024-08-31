@@ -10,7 +10,7 @@ redirect_from:
 
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32306. The class number for CS294-196 is 32304. Please join the waitlist if the class is full.***
 - ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the fall semester if you are allowed in.***
-- ***<span style="color:red">Do not email course staff or TAs. Please use Edstem for any questions. For private matters, post a private question on Edstem and make sure it is visable to all teaching staff.</span>***
+- ***<span style="color:red">Do not email course staff or TAs. Please use [Edstem](https://edstem.org/us/courses/60410/discussion/) for any questions. For private matters, post a private question on Edstem and make sure it is visable to all teaching staff.</span>***
 
 ## Course Staff
 
@@ -38,8 +38,6 @@ redirect_from:
 GSIs: Alex Pan & Sehoon Kim
 
 Readers: Tara Pande & Ashwin Dara
-
-[edstem](https://edstem.org/us/courses/60410/discussion/)
 
 ## Class Time and Location
 
