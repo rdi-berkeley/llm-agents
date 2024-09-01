@@ -60,20 +60,21 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 
 ## Syllabus (subject to change)
 
-| Date   | Topic | Readings |
-|--------|-------|----------|
-| Sept 9 |       |          |
-| Sept 16 |       |          |
-| Sept 23 |       |          |
-| Sept 30 |       |          |
-| Oct 7 |       |          |
-| Oct 14 |       |          |
-| Oct 21 |       |          |
-| Nov 4 |       |          |
-| Nov 11 | No Class - Veteran's Day |          |
-| Nov 18 |       |          |
-| Nov 25 |       |          |
-| Dec 2 | Project Presentation |          |
+| Date   | Topic | Speaker | Readings |
+|--------|-------|-------|----------|
+| Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
+| Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
+| Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, AutoGen-AI |          |
+| Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
+| Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
+| Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
+| Oct 21 | Agent for Workflow Applications | Nicolas Chapados, ServiceNow |          |
+| Oct 28 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
+| Nov 4 | Foundation Agent | Jim Fan, NVIDIA |          |
+| Nov 11 | No Class - Veteran's Day |          |          |
+| Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
+| Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
+| Dec 2 | Project Presentations |          |          |
 
 
 ## Enrollment and Grading (Subject to Change)
