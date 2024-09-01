@@ -97,8 +97,9 @@ The grade breakdowns for students enrolled in different units are the following:
 | Lab                          |        | 20%     | 10%       |
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Presentation*   |        | 25%     | 25%       |
+| &nbsp;&nbsp;*Milestone 1*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Milestone 2*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Presentation*   |        | 15%     | 15%       |
 | &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
 | &nbsp;&nbsp;*Implementation* |        |         | 20%       |
 
@@ -109,7 +110,8 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project group formation | 9/9      | 9/16    |
 | Project proposal        |  9/16     | 9/30    |
 | Lab                     |  9/23     |  10/7   |
-| Project milestone       |  10/14     |  10/28   |
+| Project milestone #1       |  10/14     |  10/28   |
+| Project milestone #2        |  11/4     |  11/18   |
 | Project presentation    |  Week of 12/2     |  Week of 12/2   |
 | Project final report    |  11/25     | 12/16    |
 
