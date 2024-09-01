@@ -118,5 +118,5 @@ The grade breakdowns for students enrolled in different units are the following:
 
 ## Office Hours
 
-Alex: 5-6pm on Mondays at Latimer after class 
-Sehoon: 4-5pm on Tuesdays at Soda
+- Alex: 5-6pm on Mondays at Latimer after class 
+- Sehoon: 4-5pm on Tuesdays at Soda
