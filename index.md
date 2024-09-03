@@ -118,5 +118,5 @@ The grade breakdowns for students enrolled in different units are the following:
 
 ## Office Hours
 
-- Alex: 5-6pm on Mondays at Latimer after class 
-- Sehoon: 4-5pm on Tuesdays at Soda
+- Alex: 5-6pm on Mondays on Zoom (https://berkeley.zoom.us/j/2012565201)
+- Sehoon: 10-11am on Tuesdays on Zoom (https://berkeley.zoom.us/j/5705498591)
