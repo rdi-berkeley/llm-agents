@@ -84,7 +84,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 ***Please fill out the <a href="https://forms.gle/8sHgNLQm44G9yLRA8">signup form</a> if you are on the waitlist or can't get added to the waitlist.***
 
 This is a variable-unit course.
-All enrolled students are expected to participate in lectures in person.
+All enrolled students are expected to participate in lectures in person and complete weekly reading summaries related to the course content.
 Students enrolling in one unit are expected to submit an article that summarizes one of the lectures.
 Students enrolling in more than one unit are expected to submit a lab assignment and a project instead of the article.
 The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
