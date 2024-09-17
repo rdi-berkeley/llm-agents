@@ -93,14 +93,15 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                              | 1 unit | 2 units | 3/4 units |
 |------------------------------|--------|---------|-----------|
-| Participation                | 45%    | 20%     | 10%       |
-| Reading Summaries & Q/A      | 10%    | 4%     | 2%       |
-| Article                      | 45%    |         |           |
-| Lab                          |        | 16%     | 8%       |
+| Participation                | 40%    | 16%     | 8%        |
+| Reading Summaries & Q/A      | 10%    | 4%      | 2%        |
+| Quizzes                      | 10%    | 4%      | 2%        |
+| Article                      | 40%    |         |           |
+| Lab                          |        | 16%     | 8%        |
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Milestone 1*      |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Milestone 2*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Milestone 1*    |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Milestone 2*    |        | 10%     | 10%       |
 | &nbsp;&nbsp;*Presentation*   |        | 15%     | 15%       |
 | &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
 | &nbsp;&nbsp;*Implementation* |        |         | 20%       |
