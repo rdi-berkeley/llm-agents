@@ -116,7 +116,7 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project milestone #1    |  10/8     |  10/21   |
 | Project milestone #2    |  10/29     |  11/18   |
 | Project final presentation    |  11/19     | 12/12    |
-| Project final report    |  11/19     | 12/12    |
+| Project final report    |  11/19     | 12/17    |
 
 ## Office Hours
 
