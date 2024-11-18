@@ -73,7 +73,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 4 | **Project GR00T: A Blueprint for Generalist Robotics** <br> Jim Fan, NVIDIA <br> <a href="https://rdi.berkeley.edu/llm-agents/assets/jimfangr00t.pdf">Slides</a> [Original Recording](https://bcourses.berkeley.edu/courses/1535641/external_tools/90481) [Edited Video](https://www.youtube.com/live/Qhxr0uVT2zs) | - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) <br> - [Eureka: Human-Level Reward Design via Coding Large Language Models](https://eureka-research.github.io/) <br> - [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/) |          
 | Nov 11 | **No Class - Veteran's Day** |          |          
 | Nov 18 | **Open-Source and Science in the Era of Foundation Models** <br> Percy Liang, Stanford University | - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://arxiv.org/abs/2408.08926)  |  
-| Nov 25 | **Measuring Agent capabilities and Anthropic's RSP** <br> Ben Mann, Anthropic |  |   
+| Nov 25 | **Measuring Agent capabilities and Anthropic's RSP** <br> Ben Mann, Anthropic | - [Announcing our updated Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy) <br> - [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) |   
 | Dec 2 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
 
 
