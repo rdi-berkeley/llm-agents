@@ -74,7 +74,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 11 | **No Class - Veterans Day** |          |          
 | Nov 18 | **Open-Source and Science in the Era of Foundation Models** <br> Percy Liang, Stanford University <br> <a href="https://rdi.berkeley.edu/llm-agents/assets/percyliang.pdf">Slides</a> [Original Recording](https://bcourses.berkeley.edu/courses/1535641/external_tools/90481) [Edited Video](https://www.youtube.com/live/f3KKx9LWntQ) | - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://arxiv.org/abs/2408.08926)  |  
 | Nov 25 | **Measuring Agent capabilities and Anthropic's RSP** <br> Ben Mann, Anthropic <br> <a href="https://rdi.berkeley.edu/llm-agents/assets/antrsp.pdf">Slides</a> | - [Announcing our updated Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy) <br> - [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) |   
-| Dec 2 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
+| Dec 2 | **Towards Building a Safe & Responsible AI and A Path for Science‑ and Evidence‑based AI Policy** <br> Dawn Song, UC Berkeley |  |          
 
 
 ## Enrollment and Grading
